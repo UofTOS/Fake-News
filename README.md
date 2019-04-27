@@ -1,8 +1,6 @@
 # Fake News
 This Chrome Extension uses the metadata of an article and calculates how likely it is to have quality content
 
-Ambition Level of this project: 6/10
-
 <h2>The idea:</h2> 
 <p>
 The idea is, given a webpage that has an article on it. This app will read Meta Data such as <br>
